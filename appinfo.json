@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "infos@photographicdesign.be",
+    "longName": "jttuto1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "jttuto1",
+    "uuid": "329daa8d-4a48-4861-a4fc-49da0a55cf5e",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
